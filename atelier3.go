@@ -4,6 +4,7 @@ import (
 	"math/rand"
 )
 
+// salut
 func arrayGenerate(nbElem int) []int {
 	var array []int
 
