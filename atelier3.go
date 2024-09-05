@@ -5,7 +5,7 @@ import (
 )
 
 // salut
-func arrayGenerate(nbElem int) []int {
+func ArrayGenerate(nbElem int) []int {
 	var array []int
 
 	for i := 0; i < nbElem; i++ {
